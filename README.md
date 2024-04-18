@@ -31,7 +31,7 @@
 </div> -->
 
 <div>
-	<h3 align="left">Github Stats</h3>
+	<h3 align="left">Stats</h3>
 	<p align=left>
 		<a href="https://git.io/streak-stats" title="Go to Source">
 			<img alt="Relliezhr's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=relliezhr&theme=react&border=61dafb" height="192px"/>
