@@ -11,7 +11,7 @@
 </div>
 
 <div>
-    <h3 align="left">Connect with me</h3>
+    <h3 align="left">Socials</h3>
 <p align="left">
 	<a href="https://linkedin.com/in/relliezhr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="relliezhr" height="30" /></a> &nbsp;
     <a href="https://github.com/relliezhr" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="relliezhr" height="30" width="40" /></a>
@@ -31,7 +31,7 @@
 </div> -->
 
 <div>
-	<h3 align="left">Stats</h3>
+	<h3 align="left">Github Stats</h3>
 	<p align=left>
 		<a href="https://git.io/streak-stats" title="Go to Source">
 			<img alt="Relliezhr's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=relliezhr&theme=react&border=61dafb" height="192px"/>
