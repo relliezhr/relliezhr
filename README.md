@@ -4,8 +4,8 @@
 <div>
     <h3>Personal Stuff</h3>
     <ul>
-        <li>🔭 I'm a <b>Software Engineering Student</b> at <a href="https://www.smktelkom-mlg.sch.id/" target="blank">@SMKTelkomMalang</a>.</li>
-        <li>🌱 I’m currently learning <b>Web and Mobile Development</b>.</li>
+        <li>👩🏻‍💻 I'm a <b>Software Engineering Student</b> at <a href="https://www.smktelkom-mlg.sch.id/" target="blank">@SMKTelkomMalang</a>.</li>
+        <li>📱 I’m currently learning <b>Web and Mobile Development</b>.</li>
         <li>📫 How to reach me <a href="mailto:relliezhr@gmail.com" target="blank">relliezhr@gmail.com</a>.</li>
     </ul>
 </div>
