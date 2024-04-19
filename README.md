@@ -14,16 +14,16 @@
     <h3 align="left">Get in touch</h3>
 <p align="left">
 	<a href="https://linkedin.com/in/relliezhr" target="blank">
-		<img align="left" src="https://skillicons.dev/icons?i=linkedin" alt="relliezhr"/>
+		<img align="left" src="https://skillicons.dev/icons?i=linkedin" alt="relliezhr" height="45px"/>
 	</a> &nbsp;
 	<a href="https://github.com/relliezhr" target="_blank">
-		<img align="left" src="https://skillicons.dev/icons?i=github" alt="relliezhr"/>
+		<img align="left" src="https://skillicons.dev/icons?i=github" alt="relliezhr" height="45px"/>
     	</a>&nbsp;
 	<a href="https://instagram.com/relliezhr" target="blank">
-		<img align="left" src="https://skillicons.dev/icons?i=instagram" alt="relliezhr"/>
+		<img align="left" src="https://skillicons.dev/icons?i=instagram" alt="relliezhr" height="45px"/>
 	</a>&nbsp;
 	<a href="https://discord.com/users/942656479410937886" target="blank">
-		<img align="left" src="https://skillicons.dev/icons?i=discord" alt="relliezhr"/>
+		<img align="left" src="https://skillicons.dev/icons?i=discord" alt="relliezhr" height="45px"/>
 	</a>&nbsp;
 </p>
 </div>
