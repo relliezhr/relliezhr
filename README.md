@@ -68,7 +68,7 @@
 <div>
 	<h3 align="left">Github Stats</h3>
 	
-![Language](https://raw.githubusercontent.com/relliezhr/git-stats/main/generated_images/languages.svg?token=GHSAT0AAAAAACPBGX7XA6LSMZ47IYK7CCZ4ZRCSJJA)
+![Language](https://raw.githubusercontent.com/<relliezhr>/git-stats/actions_branch/generated_images/languages.svg)
 ![Overview](https://raw.githubusercontent.com/relliezhr/git-stats/main/generated_images/overview.svg?token=GHSAT0AAAAAACPBGX7W4IENQFCTWOWS7JGEZRCSLVA)
 
 </div>
