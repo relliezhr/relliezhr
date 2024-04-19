@@ -35,9 +35,8 @@
 
 <div>
 	<h3 align="left">Github Stats</h3>
-	
-![Overview](https://raw.githubusercontent.com/relliezhr/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![Languages](https://raw.githubusercontent.com/relliezhr/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=relliezhr&show_icons=true&theme=dark&locale=en&layout=compact" alt="relliezhr" />
+	<br/> <br/>
+	<img align="center" src="https://github-readme-stats.vercel.app/api?username=relliezhr&show_icons=true&theme=dark&locale=en" alt="relliezhr" /> 
 </div>
 
