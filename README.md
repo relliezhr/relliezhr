@@ -11,7 +11,7 @@
 </div>
 
 <div>
-    <h3 align="left">Socials</h3>
+    <h3 align="left">Find me </h3>
 <p align="left">
 	<a href="https://linkedin.com/in/relliezhr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="relliezhr" height="30" /></a> &nbsp;
     <a href="https://github.com/relliezhr" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="relliezhr" height="30" width="40" /></a>
@@ -21,14 +21,14 @@
 </p>
 </div>
 
-<!-- <div>
-    <h3 align="left">Languages and Tools</h3>
-<p align="left">
-	<a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub Actions" height="30" /></a>
-	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="30"</a>
-	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="30" /></a>
-</p>
-</div> -->
+<div>
+	<h3 align="left">Languages and Tools</h3>
+	<p align="left">
+		<a href="https://skillicons.dev">
+			<img src="https://skillicons.dev/icons?i=flutter,androidstudio,kotlin,dart,java,figma,github,vscode,html,css" />
+		</a>
+	</p>
+</div>
 
 <div>
 	<h3 align="left">Github Stats</h3>
