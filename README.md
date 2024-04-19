@@ -38,28 +38,28 @@
 		<a href="https://developer.android.com/studio">
 			<img src="https://skillicons.dev/icons?i=androidstudio" height="40px"/>
 		</a>
-		<a href="https://developer.android.com/studio">
+		<a href="https://kotlinlang.org/">
 			<img src="https://skillicons.dev/icons?i=kotlin" height="40px"/>
 		</a>
-		<a href="https://developer.android.com/studio">
+		<a href="https://dart.dev/">
 			<img src="https://skillicons.dev/icons?i=dart" height="40px"/>
 		</a>
-		<a href="https://developer.android.com/studio">
+		<a href="https://dev.java/">
 			<img src="https://skillicons.dev/icons?i=java" height="40px"/>
 		</a>
-		<a href="https://developer.android.com/studio">
+		<a href="https://www.figma.com/">
 			<img src="https://skillicons.dev/icons?i=figma" height="40px"/>
 		</a>
-		<a href="https://developer.android.com/studio">
+		<a href="https://github.com/">
 			<img src="https://skillicons.dev/icons?i=github" height="40px"/>
 		</a>
-		<a href="https://developer.android.com/studio">
+		<a href="https://code.visualstudio.com/docs">
 			<img src="https://skillicons.dev/icons?i=vscode" height="40px"/>
 		</a>
-		<a href="https://developer.android.com/studio">
+		<a href="https://html.com/">
 			<img src="https://skillicons.dev/icons?i=html" height="40px"/>
 		</a>
-		<a href="https://developer.android.com/studio">
+		<a href="https://purecss.io/">
 			<img src="https://skillicons.dev/icons?i=css" height="40px"/>
 		</a>
 	</p>
