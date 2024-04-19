@@ -1,5 +1,5 @@
 <h1 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=DA3434&size=35&width=500&height=70&duration=3600&lines=Hello+World!+🌏;+I'm+Aurellie,+let's+connect!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=4493F8&size=35&width=500&height=70&duration=3600&lines=Hello+World!+🌏;+I'm+Aurellie,+let's+connect!;" />
 </h1>
 <div>
     <h3>Personal Stuff</h3>
