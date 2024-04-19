@@ -32,8 +32,35 @@
 <div>
 	<h3 align="left">Languages and Tools</h3>
 	<p align="left">
-		<a href="https://skillicons.dev">
-			<img src="https://skillicons.dev/icons?i=flutter,androidstudio,kotlin,dart,java,figma,github,vscode,html,css" />
+		<a href="https://flutter.dev/">
+			<img src="https://skillicons.dev/icons?i=flutter" height="40px"/>
+		</a>
+		<a href="https://developer.android.com/studio">
+			<img src="https://skillicons.dev/icons?i=androidstudio" height="40px"/>
+		</a>
+		<a href="https://developer.android.com/studio">
+			<img src="https://skillicons.dev/icons?i=kotlin" height="40px"/>
+		</a>
+		<a href="https://developer.android.com/studio">
+			<img src="https://skillicons.dev/icons?i=dart" height="40px"/>
+		</a>
+		<a href="https://developer.android.com/studio">
+			<img src="https://skillicons.dev/icons?i=java" height="40px"/>
+		</a>
+		<a href="https://developer.android.com/studio">
+			<img src="https://skillicons.dev/icons?i=figma" height="40px"/>
+		</a>
+		<a href="https://developer.android.com/studio">
+			<img src="https://skillicons.dev/icons?i=github" height="40px"/>
+		</a>
+		<a href="https://developer.android.com/studio">
+			<img src="https://skillicons.dev/icons?i=vscode" height="40px"/>
+		</a>
+		<a href="https://developer.android.com/studio">
+			<img src="https://skillicons.dev/icons?i=html" height="40px"/>
+		</a>
+		<a href="https://developer.android.com/studio">
+			<img src="https://skillicons.dev/icons?i=css" height="40px"/>
 		</a>
 	</p>
 </div>
