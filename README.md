@@ -67,12 +67,8 @@
 
 <div>
 	<h3 align="left">Github Stats</h3>
-	<a href="https://git.io/streak-stats" title="Go to Source">
-    <img alt="Aurellie's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=relliezhr&theme=react&border=61dafb" height="192px"/>
-  </a>
-	<br/> <br/>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=relliezhr&show_icons=true&theme=dark&locale=en&layout=compact" alt="relliezhr" />
-<!-- 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=relliezhr&show_icons=true&theme=dark&locale=en" alt="relliezhr" />  -->
+	
+![Language](https://raw.githubusercontent.com/relliezhr/git-stats/actions_branch/generated_images/languages.svg)
+![Overview](https://raw.githubusercontent.com/relliezhr/git-stats/actions_branch/generated_images/overview.svg)
+
 </div>
-
-
