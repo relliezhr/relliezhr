@@ -68,12 +68,7 @@
 <div>
 	<h3 align="left">Github Stats</h3>
 	
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
-![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
-![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776)
-	
-![Language](https://raw.githubusercontent.com/relliezhr/git-stats/actions_branch/generated_images/languages.svg)
-![Overview](https://raw.githubusercontent.com/relliezhr/git-stats/actions_branch/generated_images/overview.svg)
+![Language](https://raw.githubusercontent.com/relliezhr/git-stats/main/generated_images/languages.svg?token=GHSAT0AAAAAACPBGX7WSQVR2L57H3A5BPAYZRCQEXQ)
+![Overview](https://raw.githubusercontent.com/relliezhr/git-stats/main/generated_images/overview.svg?token=GHSAT0AAAAAACPBGX7WLFNBSYNDBBZGJ7QYZRCQEAQ)
 
 </div>
