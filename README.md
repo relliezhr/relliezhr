@@ -22,9 +22,6 @@
 	<a href="https://instagram.com/relliezhr" target="blank">
 		<img align="left" src="https://skillicons.dev/icons?i=instagram" alt="relliezhr" height="45px"/>
 	</a>&nbsp;
-	<a href="https://discord.com/users/942656479410937886" target="blank">
-		<img align="left" src="https://skillicons.dev/icons?i=discord" alt="relliezhr" height="45px"/>
-	</a>&nbsp;
 </p>
 </div>
 <br/>
