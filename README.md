@@ -72,4 +72,4 @@
 
 
 
-![snake gif](https://github.com/relliezhr/relliezhr/blob/output/github-contribution-grid-snake.svg)
+
